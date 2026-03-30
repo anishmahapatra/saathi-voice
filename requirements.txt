@@ -1,0 +1,5 @@
+pyaudio==0.2.14
+openai==1.109.1
+anthropic==0.86.0
+elevenlabs==2.40.0
+python-dotenv==1.2.2
