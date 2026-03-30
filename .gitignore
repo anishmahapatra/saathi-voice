@@ -1,0 +1,6 @@
+.env
+session_log.txt
+__pycache__/
+*.pyc
+*.mp3
+*.wav
